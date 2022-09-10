@@ -8,4 +8,4 @@ Execution:</br>
 linux: sudo ./simulador
 </br>
 windows: simulador
-</br> Aclaration: Although it does run in windows, for some reason in windows it has 0.2 fps while in linus 30 fps
+</br> Aclaration: Although it does run in windows, for some reason in windows it has 0.2 fps while in linux 30 fps
