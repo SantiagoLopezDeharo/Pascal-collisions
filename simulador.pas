@@ -80,7 +80,7 @@ end;
 
 
 begin
-	write('Coordenadas y vectores de cada esfera: ');
+	write('Coordinates and vectors (x1, y2, vx1, vy1, x2, y2, vx2, vy2 ');
 	readln(tx1, ty1, vx1, vy1, tx2, ty2, vx2, vy2);
 	reiniciar(tx1, ty1, tx2, ty2);
 	{vx1:=1;vy1:=1;vx2:=-3;vy2:=-1;}
