@@ -6,4 +6,5 @@ fpc simulador.pas
 
 Execution:
 linux: ./simulador
+</br>
 windows: simulador
