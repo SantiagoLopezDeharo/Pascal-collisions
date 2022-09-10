@@ -5,6 +5,6 @@ Compilation (I used free pascal compilator, but any Pascal compilator should wor
 fpc simulador.pas
 </br></br></br>
 Execution:</br>
-linux: ./simulador
+linux: sudo ./simulador
 </br>
 windows: simulador
